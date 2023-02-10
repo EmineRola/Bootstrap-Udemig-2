@@ -5,3 +5,4 @@
 
 <img src="./ekran1.gif" alt="">
 <img src="./ekran2.gif" alt="">
+https://udemigbootstrap.netlify.app/
