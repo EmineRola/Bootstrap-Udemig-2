@@ -3,6 +3,7 @@
 <h3>Using technologies</h3>
 <p>HTML5 CSS3 BOOTSTRAP</p>
 
+https://udemigbootstrap.netlify.app/
+
 <img src="./ekran1.gif" alt="">
 <img src="./ekran2.gif" alt="">
-https://udemigbootstrap.netlify.app/
